@@ -1,60 +1,62 @@
-🛍️ Trend Store
+🛍️ StepTrend
 
-Trend Store, React + Vite ile geliştirilmiş küçük bir e-ticaret demo uygulamasıdır.
-Ürün listeleme, sepet yönetimi ve sade bir bileşen mimarisi içerir.
+Trend Store is a small e-commerce demo application built with React + Vite.
+It demonstrates product listing, cart management, and a clean component-based UI structure.
 
-✨ Özellikler
+✨ Features
 
-🛒 Ürün listeleme ve detay gösterimi
+🛒 Product listing and detail display
 
-➕➖ Sepete ürün ekleme / çıkarma (Context API ile durum yönetimi)
+➕➖ Add / remove products from cart (Context API for state management)
 
-📱 Responsive ve sade tasarım
+📱 Responsive and simple UI design
 
-⚡ Hızlı geliştirme ve build süreci (Vite)
+⚡ Fast local development and builds with Vite
 
-🛠️ Teknoloji Yığını
+🛠️ Tech Stack
 
 React (v18)
 
 Vite (bundler)
 
-ESLint (kod kalitesi)
+ESLint (code quality)
 
-🚀 Hızlı Başlangıç
-1️⃣ Depoyu klonlayın
+🚀 Getting Started
+1️⃣ Clone the repository
 git clone <REPO_URL>
 cd trend-store
 
-2️⃣ Bağımlılıkları yükleyin
+2️⃣ Install dependencies
 npm install
 
-3️⃣ Geliştirme sunucusunu başlatın
+3️⃣ Start the development server
 npm run dev
 
-4️⃣ Üretim build’i oluşturun
+4️⃣ Build for production
 npm run build
 
-5️⃣ Build’i yerelde ön izleyin
+5️⃣ Preview the production build locally
 npm run preview
 
-6️⃣ ESLint ile projeyi kontrol edin
+6️⃣ Run ESLint
 npm run lint
 
-📁 Dosya Yapısı
+📁 Project Structure
 src/
-├── components/        # UI bileşenleri (Cart, Products, Layout vb.)
+├── components/            # UI components (Cart, Products, Layout, etc.)
 ├── context/
-│   └── CartProvider.jsx   # Sepet durum yönetimi
-├── productData.js     # Demo ürün verileri
+│   └── CartProvider.jsx   # Cart state management
+├── productData.js         # Demo product data
 └── main.jsx
 
 
-<img width="1836" height="917" alt="image" src="https://github.com/user-attachments/assets/c6a2a5fc-8af1-4cd0-8883-fe378fb43b4d" />
-<img width="1836" height="917" alt="image" src="https://github.com/user-attachments/assets/b8850dac-1059-4327-b2e4-e9e9f6f96f16" />
+📌 Notes
+This project is intended for learning and demo purposes.
+It does not include real payment processing or backend integration.
 
 
+<img width="1836" height="917" alt="image" src="https://github.com/user-attachments/assets/850dceb9-d5f6-4b5d-a3f3-02b1aa8595d3" />
 
 
-
+<img width="1836" height="917" alt="image" src="https://github.com/user-attachments/assets/9f967599-de2c-4d00-a655-e2496da879dc" />
 
