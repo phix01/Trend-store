@@ -67,4 +67,5 @@ src/
 └── main.jsx
 ```
 🖼️ Screenshots
-<img width="1836" height="917" alt="Homepage" src="https://github.com/user-attachments/assets/850dceb9-d5f6-4b5d-a3f3-02b1aa8595d3" /> <img width="1836" height="917" alt="Cart View" src="https://github.com/user-attachments/assets/9f967599-de2c-4d00-a655-e2496da879dc" />
+<img width="1836" height="917" alt="Homepage" src="https://github.com/user-attachments/assets/850dceb9-d5f6-4b5d-a3f3-02b1aa8595d3" /> <img width="1836" height="917" alt="Cart View" src="https://github.com/user-attachments/assets/9f967599-de2c-4d00-a655-e2496da879dc" />  <img width="1836" height="917" alt="image" src="https://github.com/user-attachments/assets/643f67dd-81f8-4b2c-9a4b-5c4109ec3796" />
+
